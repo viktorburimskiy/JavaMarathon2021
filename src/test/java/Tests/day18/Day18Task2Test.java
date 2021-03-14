@@ -18,6 +18,6 @@
 //
 //    @Test
 //    void zero() {
-//        Assertions.assertEquals(0, Task2.count7(-112380), "-1123780");
+//        Assertions.assertEquals(0, Task2.count7(-112380), "-112380");
 //    }
 //}
