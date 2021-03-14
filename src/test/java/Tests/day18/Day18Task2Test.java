@@ -17,7 +17,7 @@
 //    }
 //
 //    @Test
-//    void negative() {
-//        Assertions.assertEquals(0, Task2.count7(-1123780), "-1123780");
+//    void zero() {
+//        Assertions.assertEquals(0, Task2.count7(-112380), "-1123780");
 //    }
 //}
